@@ -1,0 +1,178 @@
+- id: home
+  translation: "Home"
+
+- id: activity
+  translation: "Actividad"
+
+- id: projects
+  translation: "Proyectos"
+
+- id: proposals
+  translation: "Propuestas"
+
+- id: templateBy
+  translation: "Plantilla creada por"
+
+- id: portedBy
+  translation: "Adaptada a Hugo por"
+
+- id: contactGoTo
+  translation: "Ir a la página de contacto"
+
+- id: contactAddrTitle
+  translation: "Dirección"
+
+- id: contactTitle
+  translation: "Contacto"
+
+- id: contactForm
+  translation: "Formulario de contacto"
+
+- id: contactName
+  translation: "Tu Nombre"
+
+- id: contactMail
+  translation: "Tu Email"
+
+- id: contactMessage
+  translation: "Tu Mensaje"
+
+- id: contactSend
+  translation: "Enviar mensaje"
+
+- id: navHome
+  translation: "ir a inicio"
+
+- id: navToggle
+  translation: "Cambiar Navegación"
+
+- id: categoriesTitle
+  translation: "Categorias"
+
+- id: searchTitle
+  translation: "Buscar"
+
+- id: tagsTitle
+  translation: "Palabras clave"
+
+- id: continueReading
+  translation: "Continuar leyendo"
+
+- id: readMore
+  translation: "Leer más"
+
+- id: authorBy
+  translation: "Por"
+
+- id: recentPosts
+  translation: "Posts recientes"
+
+- id: aboutUs
+  translation: "Sobre nosotros"
+
+- id: newer
+  translation: "Más reciente"
+
+- id: older
+  translation: "Más antiguo"
+
+- id: publishedOn
+  translation: "el"
+
+- id: 404Error
+  translation: "Error 404: Página no encontrada"
+
+- id: 404Message
+  translation: "Lo sentimos – esta página ya no está aquí"
+
+- id: 404NavHome
+  translation: "Ir a la página de inicio"
+
+- id: January
+  translation: Enero
+
+- id: February
+  translation: Febrero
+
+- id: March
+  translation: Marzo
+
+- id: April
+  translation: Abril
+
+- id: May
+  translation: Mayo
+
+- id: June
+  translation: Junio
+
+- id: July
+  translation: Julio
+
+- id: August
+  translation: Agosto
+
+- id: September
+  translation: Septiembre
+
+- id: October
+  translation: Octubre
+
+- id: November
+  translation: Noviembre
+
+- id: December
+  translation: Diciembre
+
+# HOME PAGE
+- id: id_testimonials
+  translation: Personas Socias y Junta Directiva
+
+- id: id_testimonials_subtitle
+  translation: Actualmente somos alrededor de un centenar de personas socias. Colaboramos voluntariamente en las asambleas y actividades que se desarrollan en la Asociación Cívica Composcleta.
+
+- id: id_see_more.title
+  translation: Pertenece a nuestra asociación y benefíciate de todas sus ventajas!
+
+- id: id_see_more.subtitle
+  translation: Estarás cubierta por un seguro de responsabilidad Civil que ha suscrito Composcleta, conocerás y compartirás experiencias, participarás en nuestras actividades y estarás en contacto con el resto de personas socias entre otras muchas cosas. Anímate!
+
+- id: id_see_more.link_url
+  translation: Infórmate! Hazte Persona Socia!
+
+- id: id_recent_posts.title
+  translation: Nuestras últimas noticias y actividades
+
+- id: id_recent_posts.subtitle
+  translation: Descúbrelas
+
+- id: id_clients.title
+  translation: Sobre nosotros
+
+- id: id_clients.subtitle
+  translation: Somos asociación miembra de ConBici a nivel nacional e además, colaboramos con todas estas asociaciones a nivel autonómico formando la Coordinadora Galega da Bicicleta.
+
+- id: id_features_path
+  translation: features_es
+
+- id: id_carousel_path
+  translation: carousel_es
+
+# Menus
+- id: Home
+  translation: Home
+
+- id: AboutUs
+  translation: Sobre Nosotros
+
+- id: Activity
+  translation: Actividad
+
+- id: Blog
+  translation: Blog
+
+- id: Contact
+  translation: Contacto
+
+- id: FAQS
+  translation: Faqs
